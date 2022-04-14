@@ -67,6 +67,26 @@
           "type": "color"
         }
       }
+    },
+    "input": {
+      "border": {
+        "standard": {
+          "value": "#bdbdbd",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#eeeeee",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "#e0e0e0",
+          "type": "color"
+        },
+        "standard-copy-copy-copy": {
+          "value": "#f5f5f5",
+          "type": "color"
+        }
+      }
     }
   },
   "xs": {

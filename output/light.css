@@ -13,5 +13,9 @@
   --theme-button-bg-hover: #6475f7;
   --theme-button-bg-pressed: #3142c4;
   --theme-button-bg-disabled: #eceefe;
+  --theme-input-border-standard: #bdbdbd;
+  --theme-input-border-hover: #eeeeee;
+  --theme-input-border-pressed: #e0e0e0;
+  --theme-input-border-standard-copy-copy-copy: #f5f5f5;
   --xs: 12;
       }
