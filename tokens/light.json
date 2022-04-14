@@ -16,7 +16,7 @@
     },
     "fg": {
       "default": {
-        "value": "#171717",
+        "value": "#171719",
         "type": "color"
       },
       "onAccent": {
@@ -42,5 +42,9 @@
         "type": "color"
       }
     }
+  },
+  "xs": {
+    "value": 12,
+    "type": "sizing"
   }
 }
