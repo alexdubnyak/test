@@ -184,5 +184,21 @@
         "type": "spacing"
       }
     }
+  },
+  "button": {
+    "padding": {
+      "s": {
+        "value": 10,
+        "type": "spacing"
+      }
+    }
+  },
+  "input": {
+    "padding": {
+      "s": {
+        "value": 10,
+        "type": "spacing"
+      }
+    }
   }
 }
