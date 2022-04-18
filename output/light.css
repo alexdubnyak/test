@@ -12,4 +12,9 @@
   --light-input-border-radius-m: 6;
   --input-padding-s: 10;
   --input-padding-m: 20;
+  --input-padding-l: 40;
+  --modal-padding-s: 20;
+  --modal-padding-m: 40;
+  --modal-gap-s: 10;
+  --modal-gap-m: 20;
       }

@@ -66,6 +66,32 @@
       "m": {
         "value": 20,
         "type": "spacing"
+      },
+      "l": {
+        "value": 40,
+        "type": "spacing"
+      }
+    }
+  },
+  "modal": {
+    "padding": {
+      "s": {
+        "value": 20,
+        "type": "spacing"
+      },
+      "m": {
+        "value": 40,
+        "type": "spacing"
+      }
+    },
+    "gap": {
+      "s": {
+        "value": 10,
+        "type": "spacing"
+      },
+      "m": {
+        "value": 20,
+        "type": "spacing"
       }
     }
   }
